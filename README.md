@@ -134,7 +134,8 @@ Primary Relationships
 
 ## Executive Dashboard
 
-> Replace with your screenshot
+<img width="1920" height="1080" alt="Dashboard1" src="https://github.com/user-attachments/assets/a998470c-b139-41af-ae5e-8324c97fa005" />
+
 
 ```
 images/dashboard1.png
@@ -144,7 +145,8 @@ images/dashboard1.png
 
 ## Billing Dashboard
 
-> Replace with your screenshot
+<img width="1920" height="1080" alt="Fd" src="https://github.com/user-attachments/assets/73cdb0e4-8dbe-4ecb-a22d-3b892830b773" />
+
 
 ```
 images/dashboard2.png
@@ -154,7 +156,8 @@ images/dashboard2.png
 
 ## Appointment Dashboard
 
-> Replace with your screenshot
+<img width="1920" height="1080" alt="Do Dp" src="https://github.com/user-attachments/assets/76bd8ba2-ae8c-412e-a61f-a701af94c50c" />
+
 
 ```
 images/dashboard3.png
